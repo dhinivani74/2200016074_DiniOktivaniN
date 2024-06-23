@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269446033894",
+    "project_id": "my-first-project-tekmo10",
+    "storage_bucket": "my-first-project-tekmo10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269446033894:android:abf768e84e746e5e31a627",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1_firebase10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMV-fIu8rQ_EHLoHYQAIEOu43MuDQ95q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
